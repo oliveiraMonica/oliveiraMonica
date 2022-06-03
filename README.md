@@ -7,6 +7,7 @@
 - 📫 How to reach me  -> +55 (19) 998468664
 
 ### Backend Developer :briefcase:
+### Data Analytics :briefcase:
 ### Recruit Web Developer :briefcase:
 
 
