@@ -30,7 +30,7 @@ Django • FastAPI • REST APIs • Microservices
 Pandas • NumPy • Scikit-learn • PySpark
 
 ### Cloud & DevOps
-Docker • Kubernetes • AWS • CI/CD
+Docker • Kubernetes • Azure • CI/CD
 
 ---
 
