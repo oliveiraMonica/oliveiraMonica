@@ -4,7 +4,7 @@ Data Engineer | Backend Python | Machine Learning
 
 I am a software engineer with over **8 years of experience building backend systems, data pipelines, and scalable APIs**.
 
-My main focus is developing **data-driven applications and machine learning systems** that can be used in real-world environments.
+My work focuses on **data-driven applications, distributed systems, and machine learning pipelines**.
 
 ---
 
@@ -13,8 +13,8 @@ My main focus is developing **data-driven applications and machine learning syst
 - Backend developer specialized in **Python**
 - Experience building **REST APIs and microservices**
 - Strong background in **data engineering and analytics**
-- Currently expanding my skills in **Machine Learning and AI Engineering**
-- Interested in building **production-ready ML systems**
+- Currently expanding my expertise in **Machine Learning and AI Engineering**
+- Passionate about building **scalable data and AI systems**
 
 ---
 
@@ -34,14 +34,25 @@ Docker • Kubernetes • AWS • CI/CD
 
 ---
 
-## Current Focus
+## What I'm Currently Working On
 
-Currently focusing on improving skills in:
+- Machine Learning applications
+- Data engineering pipelines
+- Production-ready AI systems
+- Scalable backend architectures
 
-- Machine Learning Engineering
-- AI-powered applications
-- Data-driven backend systems
-- Scalable ML pipelines
+---
+
+## GitHub
+
+This GitHub contains projects related to:
+
+- Backend development
+- Data engineering
+- Machine learning systems
+- API development
+
+Feel free to explore the repositories.
 
 ---
 
