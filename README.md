@@ -2,7 +2,7 @@
 
 Data Engineer | Backend Python | Machine Learning
 
-I am a software engineer with over **8 years of experience building backend systems, data pipelines, and scalable APIs**.
+I am a computer engineer with over **8 years of experience building backend systems, data pipelines, and scalable APIs**.
 
 My work focuses on **data-driven applications, distributed systems, and machine learning pipelines**.
 
